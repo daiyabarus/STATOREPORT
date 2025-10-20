@@ -1,6 +1,6 @@
 # STATOREPORT - Network Stability Report Generator
 
-[![Version](https://img.shields.io/badge/version-1.0.2-blue.svg)](https://github.com/yourusername/statoreport)
+[![Version](https://img.shields.io/badge/version-1.0.2-blue.svg)](https://github.com/daiyabarus/STATOREPORT/releases/tag/V5.0.0)
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-blue.svg)]()
 [![License](https://img.shields.io/badge/license-MIT-orange.svg)](LICENSE)
 
